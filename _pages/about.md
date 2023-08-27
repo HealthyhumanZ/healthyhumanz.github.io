@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a biopharmaceutical scientist whose interests within the scope of this blog are focused on improving the health of humans. Primarily in areas of research related to diet and exercise. I maintain the HealthyHumanZ blog, which tracks my journey to achieve escape velocity while also sharing my lessons-learned along the way. I also do product reviews and organize these to help consumers find health-related appliances and wearables that will work best for their needs.
+I am a biopharmaceutical scientist whose interests within the scope of this blog are focused on improving the health of humans, primarily through diet and exercise. I maintain the HealthyHumanZ blog, which tracks my journey to achieve escape velocity while also sharing my lessons-learned along the way. I also do product reviews and organize these to help consumers find health-related appliances and wearables that will work best for their needs.
