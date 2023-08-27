@@ -2,7 +2,7 @@
 layout: post
 title: "The Three Pillars of Health: Diet, Exercise, and Sleep"
 date: 2023-08-27
-categories: diet, exercise sleep
+categories: diet exercise sleep
 ---
 
 # Introduction
