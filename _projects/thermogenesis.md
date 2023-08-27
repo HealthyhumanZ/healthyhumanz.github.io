@@ -4,7 +4,7 @@ title: Thermogenesis
 description: exploring the impact of thermogenesis on HRV
 # img: assets/img/12.jpg
 importance: 1
-category: hrv
+category: experiments
 ---
 
 
