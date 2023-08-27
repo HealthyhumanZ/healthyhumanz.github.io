@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thermogenesis
+title: thermogenesis
 description: exploring the impact of thermogenesis on HRV
 # img: assets/img/12.jpg
 importance: 1
